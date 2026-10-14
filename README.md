@@ -1,6 +1,6 @@
 # Campus IoT — Sistema de Monitoreo con Patrón Estrategia
 
-Sistema de monitoreo IoT en **C++17** que aplica el patrón de diseño **Estrategia (Strategy)**. Cada nodo del campus combina un algoritmo de procesamiento y un protocolo de comunicación, y ambos se pueden intercambiar mientras el programa corre, sin reiniciar el nodo.
+Sistema de monitoreo IoT en **C++** que aplica el patrón de diseño **Estrategia (Strategy)**. Cada nodo del campus combina un algoritmo de procesamiento y un protocolo de comunicación, y ambos se pueden intercambiar mientras el programa corre, sin reiniciar el nodo.
 
 Proyecto del curso *Implementación de Internet de las Cosas* — Tecnológico de Monterrey, Campus Puebla.
 
