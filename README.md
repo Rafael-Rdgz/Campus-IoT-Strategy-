@@ -27,7 +27,7 @@ Principios aplicados:
 
 ## Diagrama UML
 
-![Diagrama UML](uml.png)
+![Diagrama UML](DiagramaUML.png)
 
 ## Cómo ejecutarlo
 
